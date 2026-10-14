@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://wallpapers.com/images/featured/1920x1080-aesthetic-glrfk0ntspz3tvxg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+img{
+    text-align: center;
+    align-items: center;
+}
+button{
+    background: none;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
