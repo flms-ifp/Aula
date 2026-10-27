@@ -6,3 +6,10 @@ print(10)
 print("oi")
 print("aula")
 a
+
+nome = "aldmir willyan cabral da silva"
+curso = "ipi"
+data = "27/10/2026"
+print("Nome:", nome)
+print("Curso:", curso)
+print("Data:", data)
