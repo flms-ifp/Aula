@@ -5,4 +5,4 @@ data = "data"
 print("Nome", nome)
 print("curso", curso)
 print("data", 'dat')
-wsfgsegsgsgsedg
+fgdskjhfdisfhdawfjhsafhbwasjfg
