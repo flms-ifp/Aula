@@ -2,4 +2,8 @@ Opa
 aobaaaaaaaa
 MAQUEEEEEEEEEEEICOOOOOOOOOOOOOO
 print("ola")
+<<<<<<< HEAD
 print(200)
+=======
+print(100)
+>>>>>>> 903c5f781ca011e6a93b29ef6aa1b5e47573dd40
