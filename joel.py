@@ -4,4 +4,4 @@ data = "data"
 
 print("Nome", nome)
 print("curso", curso)
-print("data", data)
+print("data", 'dat')

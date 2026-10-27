@@ -1,10 +1,18 @@
-<<<<<<< HEAD
-print('aldmir')
-=======
 print(10)
->>>>>>> b4c1188c1b4b73ce66983258c8ffcfcb13bcd79b
 print("oi")
 print("aula")
+<<<<<<< HEAD
+
+
+
+
+
+
+rgjdgdjghdsjhgdskljh
+dsfewgfewgewg
+ksfhewusdifdwsiuf
+gdysugdhsgdjhagdajhg
+=======
 a
 
 nome = "aldmir willyan cabral da silva"
@@ -13,3 +21,4 @@ data = "27/10/2026"
 print("Nome:", nome)
 print("Curso:", curso)
 print("Data:", data)
+>>>>>>> b8ced5d382e9033056613e83c093aad3af9e923b
