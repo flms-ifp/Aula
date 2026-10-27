@@ -1,4 +1,4 @@
 print('ola mundo')
-print('meu nome é fabio')
+print('Meu nome é fabio')
 print('hoje é dia 27/10')
-print('meu curso é de ipi')
+print('meu curso é ipi (informatica para internete)')
