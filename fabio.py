@@ -1,5 +1,4 @@
 print('ola mundo')
-num1 = int(input('digite um numero: '))
-num2 = int(input('digite outro numero: '))
-soma = num1 + num2
-print(f'a soma é de {soma}')
+n1= 10
+n2= 20
+soma= n1+n2
